@@ -1,4 +1,4 @@
-# Hackathon_Team_2 Facing (Skincare Website)
+# Facing (Skincare Website)
 
 Current skincare apps offer features such as daily check-ins, product tracking, calendars, and AI analysis. Apps such as Dermaday use photos and AI to analyse skin and provide recommendations for skin concerns. Rather than telling users what to do, our site, Facing, works as a personal skin diary.
 
